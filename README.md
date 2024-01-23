@@ -1,2 +1,3 @@
 # SPAM-MAIL-DETECTION WTIH MACHIINE LEARNING
+## Algorithm :  Logistic Regression
 # OASIS TASK-4
